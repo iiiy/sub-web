@@ -255,7 +255,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://shellclash.herokuapp.com?" }],
+        backendOptions: [{ value: "https://iiiy.vercel.app?" }],
         remoteConfig: [
           {
             label: "universal",
